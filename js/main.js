@@ -120,7 +120,7 @@
 
     const currentYear = (new Date).getFullYear();
 
-    $("#years-of-experience").html(currentYear - 2013);
+    $("#years-of-experience").html(currentYear - 2014);
     $("#current-year").html(currentYear);
 
 }());
